@@ -13,9 +13,12 @@ namespace TestHTML_Label
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        private Class1 _aClass;
         public MainPage()
         {
             InitializeComponent();
+
+            label.Text = _aClass.Text;
         }
     }
 }

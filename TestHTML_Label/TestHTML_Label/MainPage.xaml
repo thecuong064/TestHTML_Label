@@ -8,7 +8,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label  
+        <Label x:Name="label"
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand"
                TextType="Html">
