@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHTML_Label.Android", "TestHTML_Label\TestHTML_Label.Android\TestHTML_Label.Android.csproj", "{D9687A73-C97D-4F13-A8AB-1D82195E6F59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHTML_Label", "TestHTML_Label\TestHTML_Label\TestHTML_Label.csproj", "{F2EB1F68-992E-4B29-B9EB-41D9D60E07AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHTML_Label", "TestHTML_Label\TestHTML_Label\TestHTML_Label.csproj", "{F2EB1F68-992E-4B29-B9EB-41D9D60E07AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{3A8F0422-6748-45CF-B581-A79D573CDD14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
