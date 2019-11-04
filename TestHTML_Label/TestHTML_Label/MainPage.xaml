@@ -16,6 +16,8 @@
                 &lt;h1&gt;Hello World!&lt;/h1&gt;&lt;br/&gt;SecondLineaaaa
             </Label.Text>
         </Label>
+
+        <Button Text="Tap" Clicked="Button_Clicked"/>
     </StackLayout>
 
 </ContentPage>

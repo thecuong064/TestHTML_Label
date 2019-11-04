@@ -524,3 +524,7 @@ D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Andr
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\src\mono\com\microsoft\appcenter\channel\Channel_ListenerImplementor.java
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\src\mono\com\microsoft\appcenter\analytics\channel\AnalyticsListenerImplementor.java
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\src\md583c97a0310bc1a6b1fc391803d3b5925\Crashes_AndroidCrashListener.java
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\typemap.jm.x86.s
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\typemap.jm.x86_64.s
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\typemap.mj.x86.s
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\typemap.mj.x86_64.s

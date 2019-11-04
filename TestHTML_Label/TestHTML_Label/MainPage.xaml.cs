@@ -18,6 +18,10 @@ namespace TestHTML_Label
         {
             InitializeComponent();
 
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
             label.Text = _aClass.Text;
         }
     }
