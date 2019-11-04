@@ -1,3 +1,6 @@
 /.vs
 /TestHTML_Label/TestHTML_Label/obj
 /TestHTML_Label/TestHTML_Label/bin
+/TestHTML_Label/TestHTML_Label.Android/obj
+/TestHTML_Label/TestHTML_Label.Android/bin
+/TestHTML_Label/TestHTML_Label.Android/TestHTML_Label.Android.csproj.user
