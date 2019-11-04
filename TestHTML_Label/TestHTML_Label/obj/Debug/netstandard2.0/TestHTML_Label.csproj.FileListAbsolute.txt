@@ -1,0 +1,12 @@
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\bin\Debug\netstandard2.0\TestHTML_Label.deps.json
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\bin\Debug\netstandard2.0\TestHTML_Label.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\bin\Debug\netstandard2.0\ref\TestHTML_Label.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\bin\Debug\netstandard2.0\TestHTML_Label.pdb
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\TestHTML_Label.AssemblyInfoInputs.cache
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\TestHTML_Label.AssemblyInfo.cs
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\TestHTML_Label.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\ref\TestHTML_Label.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label\obj\Debug\netstandard2.0\TestHTML_Label.pdb
