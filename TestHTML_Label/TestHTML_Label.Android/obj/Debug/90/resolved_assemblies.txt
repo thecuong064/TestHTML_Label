@@ -1,6 +1,12 @@
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\TestHTML_Label.Android.dll
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Java.Interop.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Microsoft.AppCenter.Analytics.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Microsoft.AppCenter.Crashes.dll
+D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Microsoft.AppCenter.dll
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\Mono.Android.dll
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\mscorlib.dll
 D:\XamarinFormProject\Training\TestHTML_Label\TestHTML_Label\TestHTML_Label.Android\obj\Debug\90\android\assets\System.Core.dll
