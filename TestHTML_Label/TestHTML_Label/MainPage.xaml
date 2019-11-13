@@ -13,7 +13,7 @@
            VerticalOptions="CenterAndExpand"
                TextType="Html">
             <Label.Text>
-                &lt;h1&gt;Hello this World!&lt;/h1&gt;&lt;br/&gt;SecondLineaaaa
+                &lt;h1&gt;Hello this is World!&lt;/h1&gt;&lt;br/&gt;SecondLineaaaa
             </Label.Text>
         </Label>
 
